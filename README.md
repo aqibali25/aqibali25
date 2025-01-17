@@ -28,6 +28,6 @@ I am a motivated Frontend Web Developer with expertise in HTML, CSS, JavaScript,
 
 <a href="http://www.github.com/aqibali25"><img src="https://github-readme-stats.vercel.app/api?username=aqibali25&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="aqibali25's GitHub stats" /></a>
 
-<a href="http://www.github.com/aqibali25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibali25&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqibali25&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/aqibali25)
 
 <a href="https://github.com/aqibali25" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibali25&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
